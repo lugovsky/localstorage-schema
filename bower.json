@@ -1,0 +1,19 @@
+{
+  "name": "localstorage-schema",
+  "main": "localstorage-schema.js",
+  "version": "0.0.1",
+  "authors": [
+    "Vladimir Lugovsky <lugovsky.v@gmail.com>"
+  ],
+  "description": "Library to work with browser localStorage like with a tree-based structure.",
+  "keywords": [
+    "localStorage",
+    "database",
+    "schema",
+    "web",
+    "javascript",
+    "framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lugovsky/localstorage-schema"
+}
