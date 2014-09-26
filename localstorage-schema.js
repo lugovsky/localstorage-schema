@@ -124,7 +124,7 @@
             this.persist(keys);
             return newId;
         };
-        CollectionDao.prototype.select = function(filter, ) {
+        CollectionDao.prototype.select = function(filter, condition) {
             return this.all().filter(condition);
         };
         CollectionDao.prototype.del = function(id) {
